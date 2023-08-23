@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="Conductor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Export">
+            <g id="Bulk">
+                <polygon id="Path" points="0 0 18 0 18 18 0 18"></polygon>
+                <path d="M5.83335294,6.92648991 L5.28429412,6.38540547 L9,2.5 L12.7157059,6.38540547 L12.1666471,6.9257136 L9.38235294,4.01457064 L9.38235294,12.3730443 L8.61764706,12.3730443 L8.61764706,4.01457064 L5.83335294,6.92648991 Z M14.7352941,9.31285083 L14.7352941,14.3355428 C14.7352941,14.5498029 14.564,14.7236952 14.3529412,14.7236952 L3.64705882,14.7236952 C3.436,14.7236952 3.26470588,14.5498029 3.26470588,14.3355428 L3.26470588,9.30896931 L2.5,9.30896931 L2.5,14.3355428 C2.5,14.9775469 3.01464706,15.5 3.64705882,15.5 L14.3529412,15.5 C14.9853529,15.5 15.5,14.9775469 15.5,14.3355428 L15.5,9.31285083 L14.7352941,9.31285083 Z" id="Shape" fill="#dcdde1" fill-rule="nonzero" transform="translate(9.000000, 9.000000) rotate(-180.000000) translate(-9.000000, -9.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'proxima_novalight';
+  src: url('./Mark Simonson - Proxima Nova Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'proxima_novamedium';
+  src: url('./Mark Simonson - Proxima Nova Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'proxima_novasemibold';
+  src: url('./Mark Simonson - Proxima Nova Semibold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'proxima_novaregular';
+  src: url('./Mark Simonson - Proxima Nova.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Inter font family */
+@font-face {
+  font-family: 'inter_light';
+  src: url('./Inter-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'inter_regular';
+  src: url('./Inter-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'inter_medium';
+  src: url('./Inter-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'inter_semibold';
+  src: url('./Inter-SemiBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'inter_bold';
+  src: url('./Inter-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: 'proxima_novabold';
+  src: url('./Mark-Simonson-Proxima-Nova-Bold.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+} */

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Status/send-green</title>
+    <g id="New-Notification-Wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notifications-Status-Icon-States" transform="translate(-476.000000, -275.000000)" fill="#4CD137">
+            <g id="Status/Icon-Steps/default-Copy-3" transform="translate(464.000000, 272.000000)">
+                <g id="Group">
+                    <g id="Icon/Send" transform="translate(9.000000, 0.000000)">
+                        <path d="M14.78025,3.21975 C14.5755,3.01575 14.27025,2.946 13.998,3.04425 L3.498,6.79425 C3.21525,6.89475 3.0195,7.155 3.0015,7.45425 C2.9835,7.75425 3.1455,8.0355 3.41475,8.1705 L6.85425,9.8895 L11.25,6.75 L8.10975,11.1465 L9.82875,14.586 C9.957,14.84025 10.21725,15 10.5,15 C10.51575,15 10.53075,14.99925 10.54575,14.9985 C10.84575,14.9805 11.106,14.7855 11.20725,14.502 L14.95725,4.002 C15.054,3.72975 14.985,3.4245 14.78025,3.21975 Z" id="Fill"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

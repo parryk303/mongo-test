@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="16px" viewBox="0 0 4 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Icon/Menu/Vetical</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RC-Professional-Services-UI-Components" transform="translate(-2961.000000, -961.000000)">
+            <g id="Icon/Menu/Vetical" transform="translate(2954.000000, 960.000000)">
+                <polygon id="Path" points="0 0 18 0 18 18 0 18"></polygon>
+                <path d="M9,1 C10.1,1 11,1.9 11,3 C11,4.1 10.1,5 9,5 C7.9,5 7,4.1 7,3 C7,1.9 7.9,1 9,1 Z M9,1.85 C8.3675,1.85 7.85,2.3675 7.85,3 C7.85,3.6325 8.3675,4.15 9,4.15 C9.6325,4.15 10.15,3.6325 10.15,3 C10.15,2.3675 9.6325,1.85 9,1.85 Z M9,13 C10.1,13 11,13.9 11,15 C11,16.1 10.1,17 9,17 C7.9,17 7,16.1 7,15 C7,13.9 7.9,13 9,13 Z M9,13.85 C8.3675,13.85 7.85,14.3675 7.85,15 C7.85,15.6325 8.3675,16.15 9,16.15 C9.6325,16.15 10.15,15.6325 10.15,15 C10.15,14.3675 9.6325,13.85 9,13.85 Z M9,7 C10.1,7 11,7.9 11,9 C11,10.1 10.1,11 9,11 C7.9,11 7,10.1 7,9 C7,7.9 7.9,7 9,7 Z M9,7.85 C8.3675,7.85 7.85,8.3675 7.85,9 C7.85,9.6325 8.3675,10.15 9,10.15 C9.6325,10.15 10.15,9.6325 10.15,9 C10.15,8.3675 9.6325,7.85 9,7.85 Z" id="Shape" fill="#7f8fa6" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

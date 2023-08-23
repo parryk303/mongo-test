@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Status/phone-green</title>
+    <g id="New-Notification-Wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notifications-Status-Icon-States" transform="translate(-152.000000, -275.000000)" fill="#4CD137">
+            <g id="Phone-Number-unselected" transform="translate(124.000000, 272.000000)">
+                <g id="Group">
+                    <g id="Icon/Phone" transform="translate(25.000000, 0.000000)">
+                        <path d="M14.62125,12.0676875 L12.68775,10.1221875 C12.39525,9.8274375 11.919,9.8274375 11.62575,10.1206875 L9.9075,11.8389375 L6.1575,8.0889375 L7.878,6.3684375 C8.1705,6.0759375 8.17125,5.6011875 7.87875,5.3079375 L5.94375,3.3699375 C5.6505,3.0766875 5.17575,3.0766875 4.8825,3.3699375 L3.1605,5.0911875 L3.1575,5.0889375 C3.1575,10.4739375 7.5225,14.8389375 12.9075,14.8389375 L14.61975,13.1266875 C14.91225,12.8341875 14.913,12.3609375 14.62125,12.0676875 Z" id="Fill"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

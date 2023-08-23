@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="260px" height="37px" viewBox="0 0 260 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo/Notifications Draft</title>
+    <g id="Dashboard---Notifications" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notifications-Data-Table" transform="translate(-512.000000, -206.000000)" fill="#5612DE">
+            <g id="About-Modal" transform="translate(435.000000, 174.000000)">
+                <g id="Logo/Notifications-Draft" transform="translate(74.000000, 32.000000)">
+                    <g id="Group-3">
+                        <text id="Notifications" font-family="proxima_novamedium" font-size="36" font-weight="400" letter-spacing="1.98">
+                            <tspan x="0.432" y="36">Notifications</tspan>
+                        </text>
+                        <g id="Icon/Plus" transform="translate(215.000000, 0.000000)" fill-rule="nonzero">
+                            <path d="M12.3222178,0.504884681 C10.7970792,0.589210274 9.6875,1.75642203 9.6875,3.3125 L9.687,9.687 L3.3125,9.6875 C1.69657288,9.6875 0.5,10.8840729 0.5,12.5 L0.504884681,12.6777822 C0.589210274,14.2029208 1.75642203,15.3125 3.3125,15.3125 L9.687,15.312 L9.6875,21.6875 C9.6875,23.3034271 10.8840729,24.5 12.5,24.5 L12.6777822,24.4951153 C14.2029208,24.4107897 15.3125,23.243578 15.3125,21.6875 L15.312,15.312 L21.6875,15.3125 C23.3034271,15.3125 24.5,14.1159271 24.5,12.5 L24.4951153,12.3222178 C24.4107897,10.7970792 23.243578,9.6875 21.6875,9.6875 L15.312,9.687 L15.3125,3.3125 C15.3125,1.69657288 14.1159271,0.5 12.5,0.5 L12.3222178,0.504884681 Z" id="Fill"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

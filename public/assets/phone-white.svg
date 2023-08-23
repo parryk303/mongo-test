@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="12px" viewBox="0 0 11 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Phone-white</title>
+    <g id="Dashboard---Notifications" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Badge/Icon-Text/Left-Align" transform="translate(-4.000000, -2.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Icon/Phone" transform="translate(1.955556, 0.000000)">
+                <path d="M12.7078519,10.7268333 L11.0273778,8.9975 C10.7731556,8.7355 10.3592296,8.7355 10.1043556,8.99616667 L8.61096296,10.5235 L5.3517037,7.19016667 L6.84705185,5.66083333 C7.10127407,5.40083333 7.10192593,4.97883333 6.8477037,4.71816667 L5.16592593,2.9955 C4.91105185,2.73483333 4.49842963,2.73483333 4.24355556,2.9955 L2.7469037,4.5255 L2.7442963,4.5235 C2.7442963,9.31016667 6.53807407,13.1901667 11.2183704,13.1901667 L12.7065481,11.6681667 C12.9607704,11.4081667 12.9614222,10.9875 12.7078519,10.7268333 Z" id="Fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

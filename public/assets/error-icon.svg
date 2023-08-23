@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Icon/Alert</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Alert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Path" x="0" y="0" width="18" height="18"></rect>
+            <path d="M16.216,14.529 L9.882,2.654 C9.506,1.948 8.494,1.948 8.117,2.654 L1.784,14.529 C1.429,15.195 1.912,16 2.667,16 L15.334,16 C16.088,16 16.571,15.195 16.216,14.529 Z M9,14 C8.448,14 8,13.552 8,13 C8,12.448 8.448,12 9,12 C9.552,12 10,12.448 10,13 C10,13.552 9.552,14 9,14 Z M10,11 L8,11 L8,7 L10,7 L10,11 Z" id="Fill" fill="#E84118"></path>
+        </g>
+    </g>
+</svg>

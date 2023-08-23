@@ -1,17 +1,81 @@
 {
-  "name": "mongo-test",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "install-server": "cd server && npm install",
-    "start-server": "cd server && node server.js",
-    "install-client": "cd client && npm install",
-    "build-client": "cd client && npm run build",
-    "start-client": "cd client && npm run start"
+  "name": "cloud-relay-product",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "11.9.0",
+    "@emotion/styled": "11.8.1",
+    "@mui/icons-material": "5.11.0",
+    "@mui/material": "5.11.0",
+    "@mui/x-date-pickers": "^6.10.0",
+    "@ringcentral-pro-serv/psi-logging-system": "1.0.5",
+    "aws-sdk": "^2.1417.0",
+    "axios": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^2.28.0",
+    "date-fns-tz": "^1.3.4",
+    "dotenv": "^16.0.0",
+    "jose": "^4.6.1",
+    "mongoose": "^7.3.4",
+    "multer": "^1.4.5-lts.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^8.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "sequelize": "^6.28.0",
+    "web-vitals": "^2.1.0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "start": "npm-run-all --parallel start:server",
+    "build:fe": "react-app-rewired build",
+    "start:fe": "react-app-rewired start",
+    "dev:watch-client": "watch 'npm run build:fe' src/client",
+    "dev": "npm-run-all --parallel build:fe dev:*",
+    "build": "npm run build:fe && npm run build:server",
+    "dev:build-server": "webpack --config webpack.server.js --mode=development -w",
+    "dev:start-server": "nodemon ./server-build/index.js",
+    "build:server": " webpack --config webpack.server.js --mode=production",
+    "start:server": "node --enable-source-maps ./server-build",
+    "server": "npm-run-all --parallel dev:build-server dev:start-server"
+  },
+  "@alias": {
+    "@common": "./src/shared",
+    "@client": "./src/client",
+    "@server": "./src/server",
+    "@utils": "./src/server/utils",
+    "@controllers": "./src/server/controllers",
+    "@services": "./src/server/services",
+    "@middlewares": "./src/server/middlewares",
+    "@models": "./src/server/database/models"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "nodemon": "^2.0.15",
+    "npm-run-all": "^4.1.5",
+    "react-app-rewired": "^2.2.1",
+    "watch": "^1.0.2",
+    "webpack-cli": "^4.9.2",
+    "webpack-node-externals": "^3.0.0"
+  }
 }

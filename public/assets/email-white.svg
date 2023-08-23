@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Mail-white</title>
+    <g id="Dashboard---Notifications" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Badge/Icon-Text/Left-Align" transform="translate(-4.000000, -3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Icon/Mail" transform="translate(2.000000, 0.000000)">
+                <path d="M13.3333333,6.46666667 L13.3333333,12 C13.3333333,12.4 13.0666667,12.6666667 12.6666667,12.6666667 L12.6666667,12.6666667 L3.33333333,12.6666667 C2.93333333,12.6666667 2.66666667,12.4 2.66666667,12 L2.66666667,12 L2.66666667,6.46666667 L7.66666667,9.26666667 C7.85333333,9.36 8.14666667,9.36 8.33333333,9.26666667 L8.33333333,9.26666667 L13.3333333,6.46666667 Z M12.6666667,3.33333333 C13.0666667,3.33333333 13.3333333,3.6 13.3333333,4 L13.3333333,4 L13.3333333,5 L8,7.93333333 L2.66666667,4.93333333 L2.66666667,4 C2.66666667,3.6 2.93333333,3.33333333 3.33333333,3.33333333 L3.33333333,3.33333333 Z" id="Fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

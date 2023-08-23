@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Status/calldirection-default</title>
+    <g id="New-Notification-Wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round">
+        <g id="Notifications-Status-Icon-States" transform="translate(-259.000000, -14.000000)" fill-rule="nonzero" stroke="#7F8FA6" stroke-width="0.7">
+            <g id="Direction-unselected" transform="translate(236.000000, 11.000000)">
+                <g id="Group">
+                    <g id="Icon/Arrow---Right" transform="translate(21.000000, 0.000000)">
+                        <polygon id="Fill" points="9.975 3.975 8.925 5.025 12.15 8.25 3 8.25 3 9.75 12.15 9.75 8.925 12.975 9.975 14.025 15 9"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

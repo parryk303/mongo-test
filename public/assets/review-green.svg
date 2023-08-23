@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Status/Review-green</title>
+    <g id="New-Notification-Wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notifications-Status-Icon-States" transform="translate(-584.000000, -275.000000)" fill="#4CD137">
+            <g id="Status/Icon-Steps/default-Copy-5" transform="translate(574.000000, 272.000000)">
+                <g id="Group">
+                    <g id="Icon/Success---Alt" transform="translate(7.000000, 0.000000)">
+                        <path d="M9,3 C5.7,3 3,5.7 3,9 C3,12.3 5.7,15 9,15 C12.3,15 15,12.3 15,9 C15,5.7 12.3,3 9,3 Z M8.25,11.55 L5.7,9 L6.75,7.95 L8.25,9.45 L11.25,6.45 L12.3,7.5 L8.25,11.55 Z" id="Fill"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

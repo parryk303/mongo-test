@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Phone-medium</title>
+    <g id="Dashboard---Notifications" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Simulate-ON" transform="translate(-10.000000, -10.000000)" fill="#5612DE">
+            <g id="Icon/Phone" transform="translate(6.000000, 6.000000)">
+                <path d="M19.495,16.09025 L16.917,13.49625 C16.527,13.10325 15.892,13.10325 15.501,13.49425 L13.21,15.78525 L8.21,10.78525 L10.504,8.49125 C10.894,8.10125 10.895,7.46825 10.505,7.07725 L7.925,4.49325 C7.534,4.10225 6.901,4.10225 6.51,4.49325 L4.214,6.78825 L4.21,6.78525 C4.21,13.96525 10.03,19.78525 17.21,19.78525 L19.493,17.50225 C19.883,17.11225 19.884,16.48125 19.495,16.09025 Z" id="Fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

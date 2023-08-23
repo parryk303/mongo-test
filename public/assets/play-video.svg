@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.999" height="42.999" viewBox="0 0 42.999 42.999">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #066fac;
+      }
+    </style>
+  </defs>
+  <g id="Play_Video" data-name="Play Video" transform="translate(-1.5 -1.5)">
+    <path id="Path_42" data-name="Path 42" class="cls-1" d="M4.333,1.5H41.666A2.837,2.837,0,0,1,44.5,4.333V41.666A2.837,2.837,0,0,1,41.666,44.5H4.333A2.837,2.837,0,0,1,1.5,41.666V4.333A2.837,2.837,0,0,1,4.333,1.5ZM41.5,4.5H4.5v37h37Z"/>
+    <path id="Path_43" data-name="Path 43" class="cls-1" d="M10.335,6.933h0a2.836,2.836,0,0,1,1.4.375L23.274,13.9a2.833,2.833,0,0,1,0,4.92L11.739,25.411A2.831,2.831,0,0,1,7.5,22.951V9.768a2.835,2.835,0,0,1,2.835-2.835Zm11.2,9.427L10.5,10.056V22.663Z" transform="translate(7.333 6.64)"/>
+  </g>
+</svg>

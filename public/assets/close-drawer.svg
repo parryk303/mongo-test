@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 18">
+  <title>close-drawer</title>
+  <polygon id="Path" points="18 0 36 0 36 18 18 18 18 0" fill="none"/>
+  <path id="Shape" d="M31.875,3h-9.75A1.084,1.084,0,0,0,21,4.031v8.938A1.084,1.084,0,0,0,22.125,14h9.75A1.084,1.084,0,0,0,33,12.969V4.031A1.084,1.084,0,0,0,31.875,3ZM22.75,13.313h-.818c-.1,0-.182-.183-.182-.406V5.313h1Zm9.5-.406a.425.425,0,0,1-.439.406H23.25v-8h9Zm0-8.219H21.75v-.84c0-.088.169-.16.375-.16h9.75c.206,0,.375.072.375.16Z" fill="#00a8ff" fill-rule="evenodd"/>
+  <polygon id="Fill" points="26 8 24 9.5 26 11 26 8" fill="#00a8ff"/>
+  <g id="BRDs">
+    <g>
+      <polygon id="Path-2" data-name="Path" points="0 0 18 0 18 18 0 18 0 0" fill="none"/>
+      <g id="Tab-Copy">
+        <path id="Shape-2" data-name="Shape" d="M13.875,3H4.125A1.084,1.084,0,0,0,3,4.031v8.938A1.084,1.084,0,0,0,4.125,14h9.75A1.084,1.084,0,0,0,15,12.969V4.031A1.084,1.084,0,0,0,13.875,3ZM4.75,13.313H3.932c-.1,0-.182-.183-.182-.406V5.313h1Zm9.5-.406a.425.425,0,0,1-.439.406H5.25v-8h9Zm0-8.219H3.75v-.84c0-.088.169-.16.375-.16h9.75c.206,0,.375.072.375.16Z" fill="#7f8fa6" fill-rule="evenodd"/>
+        <polygon id="Fill-2" data-name="Fill" points="8 8 6 9.5 8 11 8 8" fill="#00a8ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
